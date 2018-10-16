@@ -1,0 +1,6 @@
+token=NTAxNTk4ODQwNjEzMzcxOTE0.Dqbt8A.fZSfSkwcVQ-fvwTYR3pejUmtomw
+owner=494550922328801302
+prefix=S
+game=Tybe Shelp
+stayinchannel=true
+songinstatus=false
